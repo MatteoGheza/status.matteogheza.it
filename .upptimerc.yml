@@ -5,6 +5,10 @@ repo: status.matteogheza.it # The name of this repository
 sites:
   - name: VVFVolontariDarfo
     url: https://www.vvfvolontaridarfo.it
+  - name: VPS Status
+    check: "tcp-ping"
+    url: $VPS_IP
+    port: 80
 #  - name: OPsTime
 #    url: https://opstime.it/?skip_request_count
 
