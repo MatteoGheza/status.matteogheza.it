@@ -4,18 +4,20 @@
     "url": "https://www.vvfvolontaridarfo.it",
     "icon": "https://favicons.githubusercontent.com/www.vvfvolontaridarfo.it",
     "slug": "vvf-volontari-darfo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 606,
-    "timeWeek": 658,
-    "timeMonth": 615,
-    "timeYear": 616,
-    "dailyMinutesDown": {}
+    "time": 618,
+    "timeDay": 648,
+    "timeWeek": 662,
+    "timeMonth": 617,
+    "timeYear": 618,
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "VPS Status",
