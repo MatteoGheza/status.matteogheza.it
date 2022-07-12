@@ -25,7 +25,7 @@
     "url": "$VPS_IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vps-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,8 @@
     "timeWeek": 118,
     "timeMonth": 130,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-12": 0
+    }
   }
 ]
