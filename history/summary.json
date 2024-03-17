@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 609,
-    "timeDay": 736,
-    "timeWeek": 728,
+    "time": 610,
+    "timeDay": 575,
+    "timeWeek": 726,
     "timeMonth": 697,
-    "timeYear": 629,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2023-11-04": 33
     }
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-status",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.61%",
     "time": 124,
-    "timeDay": 137,
-    "timeWeek": 114,
+    "timeDay": 104,
+    "timeWeek": 115,
     "timeMonth": 120,
     "timeYear": 124,
     "dailyMinutesDown": {
