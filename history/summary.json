@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 664,
-    "timeDay": 907,
-    "timeWeek": 797,
-    "timeMonth": 718,
+    "timeDay": 651,
+    "timeWeek": 743,
+    "timeMonth": 719,
     "timeYear": 681,
-    "dailyMinutesDown": {
-      "2023-11-04": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VPS",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 162,
-    "timeWeek": 132,
+    "time": 115,
+    "timeDay": 95,
+    "timeWeek": 122,
     "timeMonth": 122,
-    "timeYear": 116,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 810,
-    "timeWeek": 631,
-    "timeMonth": 595,
-    "timeYear": 582,
+    "time": 581,
+    "timeDay": 497,
+    "timeWeek": 597,
+    "timeMonth": 594,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   }
 ]
