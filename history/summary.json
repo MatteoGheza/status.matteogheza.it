@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
+    "time": 665,
     "timeDay": 689,
-    "timeWeek": 701,
-    "timeMonth": 720,
+    "timeWeek": 713,
+    "timeMonth": 717,
     "timeYear": 681,
     "dailyMinutesDown": {}
   },
@@ -22,35 +22,39 @@
     "url": "$VPS_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 111,
-    "timeWeek": 115,
-    "timeMonth": 122,
+    "timeWeek": 119,
+    "timeMonth": 121,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "Sagrest",
     "url": "https://sagrest.it",
     "icon": "https://icons.duckduckgo.com/ip3/sagrest.it.ico",
     "slug": "sagrest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 498,
-    "timeWeek": 582,
-    "timeMonth": 591,
-    "timeYear": 578,
-    "dailyMinutesDown": {}
+    "time": 572,
+    "timeDay": 364,
+    "timeWeek": 541,
+    "timeMonth": 580,
+    "timeYear": 572,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   }
 ]
