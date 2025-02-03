@@ -4,9 +4,9 @@
     "url": "https://www.vvfvolontaridarfo.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.vvfvolontaridarfo.it.ico",
     "slug": "vvf-volontari-darfo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 756,
     "timeMonth": 741,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 0
+    }
   },
   {
     "name": "VPS",
