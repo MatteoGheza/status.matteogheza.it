@@ -4,19 +4,19 @@
     "url": "https://www.vvfvolontaridarfo.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.vvfvolontaridarfo.it.ico",
     "slug": "vvf-volontari-darfo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 1361,
-    "timeWeek": 756,
-    "timeMonth": 741,
+    "time": 695,
+    "timeDay": 1104,
+    "timeWeek": 767,
+    "timeMonth": 744,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-02-03": 0
+      "2025-02-03": 19
     }
   },
   {
