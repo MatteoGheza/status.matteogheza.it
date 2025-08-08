@@ -1,7 +1,7 @@
 url: https://sagrest.it
-status: up
-code: 200
-responseTime: 574
-lastUpdated: 2025-08-08T09:13:57.208Z
+status: down
+code: 504
+responseTime: 10547
+lastUpdated: 2025-08-08T09:57:42.940Z
 startTime: 2024-09-11T16:19:18.720Z
 generator: Upptime <https://github.com/upptime/upptime>
