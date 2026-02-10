@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 854,
-    "timeDay": 960,
-    "timeWeek": 746,
-    "timeMonth": 749,
-    "timeYear": 884,
+    "timeDay": 1022,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2025-11-18": 194,
       "2025-10-28": 27
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps",
     "status": "down",
-    "uptime": "82.04%",
+    "uptime": "81.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.87%",
+    "uptimeYear": "74.59%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-02-09": 116,
+      "2026-02-10": 126,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -131,8 +132,7 @@
       "2025-11-10": 87,
       "2025-10-19": 831,
       "2025-10-18": 553,
-      "2025-02-11": 569,
-      "2025-02-10": 339
+      "2025-02-11": 569
     }
   },
   {
@@ -141,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sagrest.it.ico",
     "slug": "sagrest",
     "status": "down",
-    "uptime": "81.72%",
+    "uptime": "81.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.42%",
-    "time": 978,
-    "timeDay": 394,
+    "uptimeYear": "74.14%",
+    "time": 977,
+    "timeDay": 403,
     "timeWeek": 332,
-    "timeMonth": 331,
-    "timeYear": 1128,
+    "timeMonth": 335,
+    "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-02-09": 116,
+      "2026-02-10": 126,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -256,8 +257,7 @@
       "2025-07-25": 41,
       "2025-07-19": 120,
       "2025-06-14": 77,
-      "2025-02-11": 567,
-      "2025-02-10": 339
+      "2025-02-11": 567
     }
   }
 ]
